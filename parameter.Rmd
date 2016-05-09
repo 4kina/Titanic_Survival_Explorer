@@ -1,0 +1,11 @@
+---
+title: "parameter"
+author: "Anastasiia"
+date: "6 ???????????? 2016 ??."
+output: html_document
+---
+
+
+**ntree**: number of trees grown
+
+**mtry**: number of predictors sampled for spliting at each node
